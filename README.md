@@ -4,15 +4,6 @@ This project is a Model-View-Controller Framework from the MVC Architecture code
 displays fictional product/price data stored in the test database, 
 the ***/sample-page*** route displays fictional Company Mission/Vision/Values Statements, also retrieved from the test database. 
 
-## Screenshot 1: ***/index***  route
-
-![Screenshot](Screenshot_1.png)
-
-## Screenshot 2: ***/sample-page*** route 
-
-![Screenshot](Screenshot_2.png)
-
-
 ## Technology Stack
 
 + PHP
