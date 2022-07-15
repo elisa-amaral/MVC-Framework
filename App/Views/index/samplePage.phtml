@@ -1,0 +1,22 @@
+<h4>Sample Page</h4>
+
+<hr>
+
+<?php foreach($this->view->data as $data_index=> $data) 
+
+    {  
+    
+?>
+        <h5 style="color: blue;"> <?=$data ['title']?> </h5>
+        <?= $data ['description'] ?>
+        <br><br>
+
+<?php 
+
+    } 
+
+?>
+
+
+
+

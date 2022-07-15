@@ -1,0 +1,14 @@
+<h4>Index</h4>
+
+<hr>
+
+<?php 
+
+   foreach($this->view->data as $product_index => $product) 
+   { 
+       echo $product ['id'] . '. ' . $product ['description'] . ' - ' . '$ ' .$product ['price'];
+       echo '<br>';
+   }
+
+
+?>
