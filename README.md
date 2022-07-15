@@ -4,11 +4,11 @@ This project is a Mode-View Controller Framework from the MVC Architecture coded
 displays some product/price data stored in the test database, 
 the ***/sample-page*** route displays fictional Company Mission/Vision/Values Statements, also retrieved from the test database. 
 
-## Screenshot 1: ***/index***  route connected to test database
+## Screenshot 1: ***/index***  route
 
 ![Screenshot](Screenshot_1.png)
 
-## Screenshot 2: ***/sample-page*** route connected to test database
+## Screenshot 2: ***/sample-page*** route 
 
 ![Screenshot](Screenshot_2.png)
 
@@ -16,7 +16,7 @@ the ***/sample-page*** route displays fictional Company Mission/Vision/Values St
 ## Technology Stack
 
 + PHP
-+ MySQL (MariaDB
++ MySQL (MariaDB)
 + phpMyAdmin
 + XAMPP 
 + HTML
